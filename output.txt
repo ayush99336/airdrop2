@@ -1,0 +1,4 @@
+running 1 test
+Current Balance: 39793037360
+Success! Check your TX here: https://explorer.solana.com/tx/5hg7QvWgFFk8nXxA2Qm8HPB4NVpygDuh3rqj8jQhex7QxnShD9zwW3CUBmM2pY4ADhdABGoNGzc817krPQoDsqYk?cluster=devnet
+test tests::submit_rs ... ok
